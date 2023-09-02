@@ -1,0 +1,11 @@
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\bin\Debug\teste c r.exe.config
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\bin\Debug\teste c r.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\bin\Debug\teste c r.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.csproj.AssemblyReference.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste_c_r.Form1.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste_c_r.Properties.Resources.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.csproj.GenerateResource.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.csproj.CoreCompileInputs.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\teste c r\obj\Debug\teste c r.pdb

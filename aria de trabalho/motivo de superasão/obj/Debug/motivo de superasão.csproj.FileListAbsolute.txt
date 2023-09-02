@@ -1,0 +1,11 @@
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\bin\Debug\motivo de superasão.exe.config
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\bin\Debug\motivo de superasão.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\bin\Debug\motivo de superasão.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.csproj.AssemblyReference.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo_de_superasão.Form1.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo_de_superasão.Properties.Resources.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.csproj.GenerateResource.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.csproj.CoreCompileInputs.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\aria de trabalho\motivo de superasão\obj\Debug\motivo de superasão.pdb

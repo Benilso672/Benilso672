@@ -1,0 +1,11 @@
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\bin\Debug\tou melorando.exe.config
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\bin\Debug\tou melorando.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\bin\Debug\tou melorando.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.csproj.AssemblyReference.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou_melorando.Form1.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou_melorando.Properties.Resources.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.csproj.GenerateResource.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.csproj.CoreCompileInputs.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\tou melorando\obj\Debug\tou melorando.pdb

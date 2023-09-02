@@ -1,0 +1,15 @@
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\bin\Debug\Calculadora jj.exe.config
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\bin\Debug\Calculadora jj.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\bin\Debug\Calculadora jj.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.csproj.AssemblyReference.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora_jj.Form1.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora_jj.Properties.Resources.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.csproj.GenerateResource.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.csproj.CoreCompileInputs.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\bin\Debug\Calculadora jj.exe.manifest
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\bin\Debug\Calculadora jj.application
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.exe.manifest
+C:\Users\Benil\Documents\GitHub\Benilso672\Calculadora jj\obj\Debug\Calculadora jj.application

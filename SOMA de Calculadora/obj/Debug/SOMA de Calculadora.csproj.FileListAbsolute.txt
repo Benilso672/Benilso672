@@ -1,0 +1,11 @@
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\bin\Debug\SOMA de Calculadora.exe.config
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\bin\Debug\SOMA de Calculadora.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\bin\Debug\SOMA de Calculadora.pdb
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.csproj.AssemblyReference.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA_de_Calculadora.Form1.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA_de_Calculadora.Properties.Resources.resources
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.csproj.GenerateResource.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.exe
+C:\Users\Benil\Documents\GitHub\Benilso672\SOMA de Calculadora\obj\Debug\SOMA de Calculadora.pdb
